@@ -8,6 +8,8 @@
 }
 .profileImage{
     margin: 1px 1px 1px 1px;
+    width: 45%;
+    height: 45%;
 }
 .rightSection{
     width: 50%; 
