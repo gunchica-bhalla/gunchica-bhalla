@@ -1,9 +1,6 @@
 .divHeader{
     background-color: rgb(204, 176, 230);
-    font-size: 72px;
+    font-size: 48px;
     text-align: right;
-}
-
-.divHeaderHeading{
-    font-display: inline;
+    display: inline;
 }
