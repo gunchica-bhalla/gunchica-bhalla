@@ -12,10 +12,14 @@
     height: 15%;
 }
 .rightSection{
+    margin: auto;
     width: 50%; 
     float: right;
+    text-align: center;
 }
 .leftSection{
+    margin: auto;
     width: 50%; 
     float: left;
+    text-align: right;
 }
