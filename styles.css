@@ -8,16 +8,12 @@
 }
 .profileImage{
     margin: 1px 1px 1px 1px;
-    width: 250;
-    height: 300
 }
 .rightSection{
     width: 50%; 
     float: right;
-    align-content: right;
 }
 .leftSection{
     width: 50%; 
     float: left;
-    align-content: right;
 }
