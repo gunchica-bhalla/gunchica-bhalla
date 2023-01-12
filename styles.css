@@ -3,3 +3,7 @@
     font-size: 72px;
     text-align: right;
 }
+
+.divHeaderHeading{
+    font-display: inline;
+}
