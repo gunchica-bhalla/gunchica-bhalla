@@ -2,6 +2,7 @@
     background-color: rgb(204, 176, 230);
 }
 .divHeadingText{
-    display: inline;
+    background-color: rgb(204, 176, 230);
+    display: block;
     font-size: 48px;
 }
