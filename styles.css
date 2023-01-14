@@ -13,6 +13,9 @@ body {
     margin: 0;
     padding: 0;
     overflow: hidden;
+    position: sticky;
+    top: 0;
+    width: 100%;
   }
   
   .headerNavbar li {
@@ -29,8 +32,9 @@ body {
   
   /* Change the link color to #111 (black) on hover */
   .headerNavbar li a:hover {
-    background-color: rgb(154, 128, 154);
+    background-color: rgb(216, 155, 242);
+    color: black;
   }
   .active {
-    background-color: rgb(236, 168, 236);
+    background-color: rgb(207, 130, 239);
   }
