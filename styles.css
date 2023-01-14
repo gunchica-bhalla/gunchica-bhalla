@@ -1,25 +1,34 @@
-
-.divHeadingText{
-    background-color: rgb(204, 176, 230);
-    display: block;
-    font-size: 48px;
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+  }
+.headerName{
+    text-align: center;
+    color: rgba(204, 198, 198, 0.758);
+    font-size:100%;
 }
-.profileImage{
-    background-color: rgb(204, 176, 230);
-    margin: 1px 1px 1px 1px;
-    width: 25%;
-    height: 15%;
-}
-.rightSection{
-    background-color: rgb(204, 176, 230);
-    margin: auto;
-    width: 50%; 
-    float: right;
-}
-.leftSection{
-    background-color: rgb(204, 176, 230);
-    margin: auto;
-    width: 50%; 
+.headerNavbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  .headerNavbar li {
     float: left;
-    height: 20%;
-}
+  }
+  
+  .headerNavbar li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  .headerNavbar li a:hover {
+    background-color: #111;
+  }
