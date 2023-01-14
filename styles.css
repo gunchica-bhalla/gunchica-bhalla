@@ -16,6 +16,7 @@ body {
     position: sticky;
     top: 0;
     width: 100%;
+    background-color: rgb(120, 160, 193);
   }
   
   .headerNavbar li {
@@ -34,11 +35,11 @@ body {
   
   /* Change the link color to #111 (black) on hover */
   .headerNavbar li a:hover {
-    background-color: rgb(216, 155, 242);
+    background-color:rgb(159, 144, 240);
     color: black;
   }
   .active {
-    background-color: rgb(207, 130, 239);
+    background-color: rgb(120, 160, 193);
     color: black;
   }
   .section1{
@@ -46,10 +47,12 @@ body {
     height: 20%;
     text-align: center;
     margin: 10px 5px;
+    background-color: rgb(120, 160, 193);
 }
 .sectionHeading{
-    text-align: center;
-    color: rgba(204, 198, 198, 0.758);
+    text-align: left;
+    color: black;
     font-size:32px;
+
 }
   
