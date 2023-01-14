@@ -6,14 +6,13 @@ body {
 .headerName{
     text-align: center;
     color: rgba(204, 198, 198, 0.758);
-    font-size:100%;
+    font-size:72px;
 }
 .headerNavbar ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
   }
   
   .headerNavbar li {
@@ -22,7 +21,7 @@ body {
   
   .headerNavbar li a {
     display: block;
-    color: white;
+    color: rgb(129, 127, 127);
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -30,5 +29,8 @@ body {
   
   /* Change the link color to #111 (black) on hover */
   .headerNavbar li a:hover {
-    background-color: #111;
+    background-color: rgb(154, 128, 154);
+  }
+  .active {
+    background-color: rgb(236, 168, 236);
   }
