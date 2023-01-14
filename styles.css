@@ -1,22 +1,23 @@
-.divHeader{
-    background-color: rgb(204, 176, 230);
-}
+
 .divHeadingText{
     background-color: rgb(204, 176, 230);
     display: block;
     font-size: 48px;
 }
 .profileImage{
+    background-color: rgb(204, 176, 230);
     margin: 1px 1px 1px 1px;
     width: 25%;
     height: 15%;
 }
 .rightSection{
+    background-color: rgb(204, 176, 230);
     margin: auto;
     width: 50%; 
     float: right;
 }
 .leftSection{
+    background-color: rgb(204, 176, 230);
     margin: auto;
     width: 50%; 
     float: left;
