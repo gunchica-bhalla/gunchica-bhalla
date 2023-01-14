@@ -20,6 +20,7 @@ body {
   
   .headerNavbar li {
     float: left;
+    width: 20%;
   }
   
   .headerNavbar li a {
