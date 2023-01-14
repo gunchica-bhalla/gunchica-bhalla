@@ -21,6 +21,7 @@ body {
   .headerNavbar li {
     float: left;
     width: 20%;
+    font-size: 32px;
   }
   
   .headerNavbar li a {
@@ -38,4 +39,15 @@ body {
   }
   .active {
     background-color: rgb(207, 130, 239);
+    color: black;
   }
+  .section {
+    width: 100vw;
+    height: 40vh;
+    background-color: #EF5354;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    margin: 10px 5px;
+}
+  
