@@ -83,14 +83,15 @@ body {
 
 .sectionHeading{
     text-align: left;
-    color: black;
+    color: rgba(204, 198, 198, 0.758);
     font-size:32px;
 
 }
 .right img{
     display: inline;
-    width: 30%;
-    height: 20%;
+    width: 40%;
+    height: 100%;
+    position: center;
 }
 .right{
     width: 50%;
