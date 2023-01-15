@@ -93,10 +93,8 @@ body {
     height: 10%;
 }
 .right{
-    width: 50%;
+    margin-left: 50%;
     height: 20%;
-    float: right;
-    margin: 5px;
 }
 .left{
     width: 50%;
