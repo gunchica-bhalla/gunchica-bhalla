@@ -88,4 +88,9 @@ body {
     font-size:32px;
 
 }
+.sectionImage{
+    height: 10%;
+    width: 20%;
+    display: inline;
+}
   
