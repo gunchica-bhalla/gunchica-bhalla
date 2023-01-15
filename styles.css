@@ -77,7 +77,7 @@ body {
 .five{
     width: 50%;
     height: 20%;
-    text-align: center;
+    text-align: right;
     margin: 10px 5px;
 }
 
@@ -102,4 +102,16 @@ body {
     width: 50%;
     height: 20%;
     float: left;
+}
+.two h2{
+    color: black;
+}
+.two h3{
+    color: rgb(120, 160, 193);
+}
+.six{
+    width: 50%;
+    height: 20%;
+    text-align: right;
+    margin: 10px 5px;
 }
