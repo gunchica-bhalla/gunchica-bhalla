@@ -49,35 +49,35 @@ body {
   .one{
     width: 50%;
     height:  20%;
-    text-align: center;
+    text-align: right;
     margin: 10px 5px;
     float: right;
 }
 .two{
     width: 50%;
     height:  20%;
-    text-align: center;
+    text-align: left;
     margin: 10px 5px;
     float: left;  
 }
 .three{
     width: 50%;
     height:  20%;
-    text-align: center;
+    text-align: right;
     margin: 10px 5px;
     float: right;
 }
 .four{
     width: 50%;
     height: 20%;
-    text-align: center;
+    text-align: left;
     margin: 10px 5px;
     float: left;  
 }
 .five{
     width: 50%;
     height: 20%;
-    text-align: center;
+    text-align: right;
     margin: 10px 5px;
     float: right;
 }
