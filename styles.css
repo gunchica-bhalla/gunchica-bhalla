@@ -93,4 +93,13 @@ body {
     width: 20%;
     display: inline;
 }
-  
+.right{
+    width: 50%;
+    height: 20%;
+    float: right;
+}
+.left{
+    width: 50%;
+    height: 20%;
+    float: left;
+}
