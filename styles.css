@@ -34,11 +34,10 @@ body {
   
   /* Change the link color to #111 (black) on hover */
   .headerNavbar li a:hover {
-    background-color:rgb(144, 182, 240);
+    background-color: rgb(120, 160, 193);
     color: black;
   }
   .active {
-    background-color: rgb(120, 160, 193);
     color: black;
   }
   .section { 
