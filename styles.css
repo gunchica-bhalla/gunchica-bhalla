@@ -89,6 +89,8 @@ body {
 }
 .right img{
     display: inline;
+    width: 20%;
+    height: 10%;
 }
 .right{
     width: 50%;
