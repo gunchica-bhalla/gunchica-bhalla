@@ -48,28 +48,28 @@ body {
 } 
   .one{
     width: 50%;
-    height: 20%;
+    height: 16%;
     text-align: right;
     margin: 10px 5px;
     float: right;
 }
 .two{
     width: 50%;
-    height: 20%;
+    height: 16%;
     text-align: left;
     margin: 10px 5px;
     float: left;  
 }
 .three{
     width: 50%;
-    height: 20%;
+    height: 16%;
     text-align: right;
     margin: 10px 5px;
     float: right;
 }
 .four{
     width: 50%;
-    height: 20%;
+    height: 16%;
     text-align: left;
     margin: 10px 5px;
     float: left;  
@@ -79,8 +79,15 @@ body {
     height: 20%;
     text-align: right;
     margin: 10px 5px;
+    float: right;
 }
-
+.six{
+    width: 50%;
+    height: 16%;
+    text-align: left;
+    margin: 10px 5px;
+    float: left;
+}
 .sectionHeading{
     text-align: left;
     color: rgba(204, 198, 198, 0.758);
@@ -95,12 +102,12 @@ body {
 }
 .right{
     width: 50%;
-    height: 20%;
+    height: 16%;
     float: right;
 }
 .left{
     width: 50%;
-    height: 20%;
+    height: 16%;
     float: left;
 }
 .two h2{
