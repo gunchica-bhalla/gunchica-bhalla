@@ -47,31 +47,31 @@ body {
     margin: 10px 5px; 
 } 
   .one{
-    width: 50%;
+    width: 100%;
     height:  20%;
     margin: 10px 5px;
     float: right;
 }
 .two{
-    width: 50%;
+    width: 100%;
     height:  20%;
     margin: 10px 5px;
     float: left;  
 }
 .three{
-    width: 50%;
+    width: 100%;
     height:  20%;
     margin: 10px 5px;
     float: right;
 }
 .four{
-    width: 50%;
+    width: 100%;
     height: 20%;
     margin: 10px 5px;
     float: left;  
 }
 .five{
-    width: 50%;
+    width: 100%;
     height: 20%;
     margin: 10px 5px;
     float: right;
