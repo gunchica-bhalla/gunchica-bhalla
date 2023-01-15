@@ -96,9 +96,11 @@ body {
     width: 50%;
     height: 20%;
     float: right;
+    margin: 5px;
 }
 .left{
     width: 50%;
     height: 20%;
     float: left;
+    margin: 5px
 }
