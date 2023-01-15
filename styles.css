@@ -34,7 +34,7 @@ body {
   
   /* Change the link color to #111 (black) on hover */
   .headerNavbar li a:hover {
-    background-color:rgb(159, 144, 240);
+    background-color:rgb(144, 182, 240);
     color: black;
   }
   .active {
@@ -48,12 +48,40 @@ body {
     margin: 10px 5px; 
 } 
   .one{
+    width: 50%;
+    height: 20%;
+    text-align: right;
+    margin: 10px 5px;
+    float: right;
+}
+.two{
+    width: 50%;
+    height: 20%;
+    text-align: left;
+    margin: 10px 5px;
+    float: left;  
+}
+.three{
+    width: 50%;
+    height: 20%;
+    text-align: right;
+    margin: 10px 5px;
+    float: right;
+}
+.four{
+    width: 50%;
+    height: 20%;
+    text-align: left;
+    margin: 10px 5px;
+    float: left;  
+}
+.five{
     width: 100%;
     height: 20%;
     text-align: center;
     margin: 10px 5px;
-    background-color: rgb(120, 160, 193);
 }
+
 .sectionHeading{
     text-align: left;
     color: black;
