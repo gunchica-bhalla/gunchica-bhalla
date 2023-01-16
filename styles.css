@@ -47,13 +47,13 @@ body {
     margin: 10px 5px; 
 } 
   .one{
-    width: 100%;
+    width: 75%;
     height:  20%;
     margin: 10px 5px;
     float: right;
 }
 .two{
-    width: 100%;
+    width: 75%;
     height:  20%;
     margin: 10px 5px;
     float: left;  
@@ -65,7 +65,7 @@ body {
     float: right;
 }
 .four{
-    width: 100%;
+    width: 75%;
     height: 20%;
     margin: 10px 5px;
     float: left;  
@@ -84,8 +84,8 @@ body {
 }
 .right img{
     display: inline;
-    width: 100%;
-    height: 100%;
+    width: 75%;
+    height: 80%;
     vertical-align: middle;
     margin: 1px;
 }
