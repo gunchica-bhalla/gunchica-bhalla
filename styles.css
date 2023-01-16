@@ -74,6 +74,7 @@ body {
     width: 100%;
     height: 20%;
     margin: 10px 5px;
+    float: right;
 }
 .sectionHeading{
     text-align: left;
@@ -108,6 +109,7 @@ body {
     color: rgb(120, 160, 193);
 }
 .four img{
+    display: inline;
     width: 20%;
     height: 30%;
 } 
