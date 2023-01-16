@@ -62,6 +62,7 @@ body {
     width: 60%;
     height:  20%;
     margin: 10px 5px;
+    float: left;
 }
 .four{
     width: 60%;
