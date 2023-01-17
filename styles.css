@@ -114,6 +114,15 @@ body {
     height: 30%;
     margin: 10%;
 } 
-.header table{
-    width: 100%;
+.header td{
+    width: 50%;
+    color: rgba(204, 198, 198, 0.758);
+}
+.one a{
+    color: black;
+    text-decoration: none;
+}
+.one a:hover{
+    background-color: rgb(120, 160, 193);
+    color: black;
 }
