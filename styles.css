@@ -79,7 +79,7 @@ body {
 .sectionHeading{
     text-align: left;
     color: rgba(204, 198, 198, 0.758);
-    font-size:32px;
+    font-size:48px;
 
 }
 .one img{
@@ -99,14 +99,16 @@ body {
     height: 20%;
     float: left;
 }
-.instituteName{
+.instituteHeading{
     color: black;
+    font-size: 32px;
 }
 .two h3{
     color: rgb(120, 160, 193);
 }
 .positionName{
     color: rgb(120, 160, 193);
+    font-size: 28px;
 }
 .four img{
     display: inline;
@@ -125,6 +127,12 @@ body {
     background-color: rgb(120, 160, 193);
     color: black;
 }
-.one p {
-    font-size: 20px;
+ p {
+    font-size: 22px;
+}
+h3 h4 h5 {
+    font-size: 30px;
+}
+.two li{
+    font-size: 22px;
 }
