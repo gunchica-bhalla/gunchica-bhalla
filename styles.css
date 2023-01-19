@@ -120,9 +120,11 @@ body {
 }
 .one a{
     color: black;
-    text-decoration: none;
 }
 .one a:hover{
     background-color: rgb(120, 160, 193);
     color: black;
+}
+.one p {
+    font-size: 20px;
 }
