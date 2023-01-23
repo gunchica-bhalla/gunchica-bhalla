@@ -145,10 +145,13 @@ h3{
    }
    .companyName{
        font-size: 28px;
+       width: 100%;
    }
    .three img{
     width: 50%;
     height: 30%;
+    margin-left: 5px;
+    margin-right: 5px;
   }
   .three td{
       width: 50%;
